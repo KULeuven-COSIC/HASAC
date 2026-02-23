@@ -1,0 +1,25 @@
+cmake:
+  application:
+    source-dir: /opt/nordic/ncs/v3.0.0/zephyr/share/sysbuild
+  board:
+    name: nrf5340dk
+    path:
+     - /opt/nordic/ncs/v3.0.0/zephyr/boards/nordic/nrf5340dk
+    qualifiers: nrf5340/cpuapp
+    revision: 
+  images:
+   - name: FOTA
+     source-dir: /Users/sayon/Documents/codes/FOTA
+     type: MAIN
+  kconfig:
+    files:
+     - /Users/sayon/Documents/codes/FOTA/build/_sysbuild/empty.conf
+     - /Users/sayon/Documents/codes/FOTA/build/_sysbuild/empty.conf
+    user-files:
+     - /Users/sayon/Documents/codes/FOTA/build/_sysbuild/empty.conf
+  sysbuild: true
+version: 0.1.0
+west:
+  command: /opt/nordic/ncs/toolchains/ef4fc6722e/bin/west build -b nrf5340dk/nrf5340/cpuapp -p always
+  topdir: /opt/nordic/ncs/v3.0.0
+  version: 1.2.0

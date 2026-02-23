@@ -1,0 +1,7 @@
+default: FOTA
+build_dir: /Users/sayon/Documents/codes/FOTA/build
+domains:
+  - name: FOTA
+    build_dir: /Users/sayon/Documents/codes/FOTA/build/FOTA
+flash_order:
+  - FOTA

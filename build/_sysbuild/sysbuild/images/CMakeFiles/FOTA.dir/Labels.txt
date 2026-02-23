@@ -1,0 +1,13 @@
+# Target labels
+ FOTA
+# Source files and their labels
+/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/CMakeFiles/FOTA
+/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/CMakeFiles/FOTA.rule
+/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/CMakeFiles/FOTA-complete.rule
+/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-build.rule
+/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-configure.rule
+/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-download.rule
+/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-install.rule
+/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-mkdir.rule
+/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-patch.rule
+/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-update.rule

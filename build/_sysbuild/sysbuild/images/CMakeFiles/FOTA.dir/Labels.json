@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/CMakeFiles/FOTA"
+		},
+		{
+			"file" : "/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/CMakeFiles/FOTA.rule"
+		},
+		{
+			"file" : "/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/CMakeFiles/FOTA-complete.rule"
+		},
+		{
+			"file" : "/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-build.rule"
+		},
+		{
+			"file" : "/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-configure.rule"
+		},
+		{
+			"file" : "/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-download.rule"
+		},
+		{
+			"file" : "/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-install.rule"
+		},
+		{
+			"file" : "/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-mkdir.rule"
+		},
+		{
+			"file" : "/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-patch.rule"
+		},
+		{
+			"file" : "/Users/sayon/Documents/codes/FOTA/build/_sysbuild/sysbuild/images/FOTA-prefix/src/FOTA-stamp/FOTA-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"FOTA"
+		],
+		"name" : "FOTA"
+	}
+}

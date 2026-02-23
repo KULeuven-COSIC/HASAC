@@ -96,3 +96,22 @@ Below is the exact benchmark output captured from our nRF5340 DK running this fi
     ├── lz4.c                   # LZ4 compression algorithm
     └── lz4.h                   # LZ4 compression definitions
 ```
+
+## Citation
+
+Full version of the paper can be found [here](https://cosicdatabase.esat.kuleuven.be/backend/publications/files/conferencepaper/4159). If you find this work useful, please consider citing the paper:
+
+```bibtex
+@inproceedings{HASAC,
+    author    = {Sayon Duttagupta},
+    title     = {{HASAC: Energy Adaptive Secure Firmware Updates for Critical IoT Systems}},
+    booktitle = {Proceedings of the 41st International Conference on ICT Systems Security and Privacy Protection (IFIP SEC 2026)},
+    year      = {2026},
+    doi       = {},
+    note      = {To appear}
+}
+```
+
+## Acknowledgments
+
+This work was supported in part by the Flemish Government through the Cybersecurity Research Program with grant number VOEWICS02, and by the European Union’s Horizon Research and Innovation program under grant agreement No.\ 101119747 (TELEMETRY).
